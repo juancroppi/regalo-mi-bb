@@ -1,0 +1,67 @@
+.fondo {
+    background: linear-gradient(199deg, #F816CA 0%, #000000 90%);
+    height: 100%;
+}
+
+.texto-titulo {
+    font-size: 60px;
+    max-width: 45%;
+    font-family: "Montserrat", sans-serif;
+    flex: 1;
+    line-height: 1.2;
+    display: inline-block; 
+    background-image: linear-gradient(169deg, #ffffff 10%, #ff09ea 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.imagen1 {
+    width: 45%;
+    height: 30%;
+    margin-left: 100px;
+}
+
+.contenedor1 {
+    display: flex;
+    align-items: center;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.texto2-contenedor {
+    max-width: 80%;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.texto2 {
+    font-size: 22px;
+    font-family: "Montserrat", sans-serif;
+    line-height: 1.6;
+    color: white;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.texto3-contenedor {
+    max-width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.texto3 {
+    font-size: 28px;
+    font-family: "Montserrat", sans-serif;
+    line-height: 1.6;
+    display: inline-block; 
+    background-image: linear-gradient(90deg, #ffffff 20%, #ff09ea 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
